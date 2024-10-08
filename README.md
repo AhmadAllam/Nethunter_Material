@@ -3,7 +3,7 @@
 * Material you design with wonderful interface
 * running all commands with termux 
 * Does not conflict with Kali nethunter updates
-* fully support termux boot to kali with `nh` 
+* fully support termux boot to kali with `nh` command from termux
 * support all Android version
 
 ## Notes:-
