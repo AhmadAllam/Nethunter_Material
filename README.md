@@ -2,23 +2,26 @@
 
 * Material you design with wonderful interface
 * running all commands with termux 
-* flashing these module will not remove other chroot
-* termux boot to kali automatic (enforcing or permissive)
-* support Android 11/12/13
+* Does not conflict with Kali nethunter updates
+* fully support termux boot to kali with `nh` 
+* support all Android version
 
 ## Notes:-
 
-* before installation set selinux in permissive mode
-* flash this module with magisk
-* don't wipe termux or nethunter data
-* if you want restore my custom commands just reflash module
+* uninstall stock nethunter and nh terminal (optional)
+* install my nethunter app and termux
+* now open nethunter and termux app and give it permissions
+* unzip data.zip to /sdcard
+* now install Swift backup
+* now open Swift backup app and select restore data for termux and nethunter together
+* enjoy :)
 
 ## Changelog:-
-* its version 1.0 (waiting me)
-* basic stock Features from stock nethunter
+* working with any android selinux mod
+* basic stock Features from nethunter 
 
 ## Bugs:-
-* nethunter app crashing in enforcing mode (will fix is in next version)
+* tell me
 
 ## Credits:-
 * @Mirivan for source code
