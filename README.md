@@ -25,7 +25,7 @@
 
 ## Credits:-
 * @Mirivan for source code
-    * my account. [telegram](https://t.me/echo_Allam)
+   - Telegram: [@echo_tester](https://t.me/echo_tester)
     * don't forget Palestine❤️
     
 
